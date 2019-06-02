@@ -29,3 +29,5 @@ It seems that towards the end of Day 2 the spin times seemed to tail off, we wil
 I think the fall in spin time at the start of Day 2 is due to the bearing being cooled over night and the lubrication settling again where is shouldn't.
 
 It would be interest, although it would ruin the experiment, to use a compressed air can to accelerate the spinner to high speed then return to daily spins and see if a single fast spin can wear the spinner in quickly.
+
+I would also like to monitor it's spin down to produce a rotation speed x time curve. Maybe with a Hall effect sensor. Quickly googling suggests about 5000 RPM is good top speed for a fidget spinner, which is about 85Hz, call it 100. We have three arms which gives us 300Hz and doubling it to prevent aliasing means we need to poll the sensor at 600Hz. This seems obtainable. [The SS40A](http://www.farnell.com/datasheets/93759.pdf) has a reponse time as 4uS. Which is would suggest it could would up to 250 Khz.
