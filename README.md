@@ -5,3 +5,7 @@ MIT licensed dataset of the first 100 spins of a brand new fidget spinner. The s
 There were no spins inbetween the documented spins.
 
 Timing was done using the stopwatch app on an iPhone manually.
+
+## The spinner
+
+![This basic black spinner was used for the test]("images/blackspinner.jpg")
