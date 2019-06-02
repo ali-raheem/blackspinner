@@ -8,4 +8,9 @@ Timing was done using the stopwatch app on an iPhone manually.
 
 ## The spinner
 
-![This basic black spinner was used for the test]("images/blackspinner.jpg")
+![This basic black spinner was used for the test](images/blackspinner.jpg)
+
+
+## The results
+
+![geom_smooth plot of results](images/smooth_plot.jpg)
