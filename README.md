@@ -13,4 +13,4 @@ Timing was done using the stopwatch app on an iPhone manually.
 
 ## The results
 
-![geom_smooth plot of results](images/smooth_plot.jpg)
+![geom_smooth plot of results](images/smooth_plot.png)
